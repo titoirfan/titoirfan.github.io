@@ -1,21 +1,10 @@
 ---
-draft: true 
-date: 2023-01-31 
+date: 2024-10-30 
 slug: hello-world
-categories:
-  - Hello
-  - World
-tags:
-  - template
-  - how-to
 ---
 
+# Hello, World!
 
-# Hello World Blogpost
+Hi there! This is the first blog post on this website.
 
-Blog excerpt here
-
-<!-- more -->
-
-Rest of blog here
 ...
