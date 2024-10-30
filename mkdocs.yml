@@ -27,6 +27,10 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode
 
+    features:
+    - header.autohide
+    - navigation.footer
+
 # Extensions
 markdown_extensions:
   - footnotes
@@ -75,3 +79,15 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+
+extra:
+  generator: false
+  social:
+    - icon: simple/gmail
+      link: mailto:irfantitok@gmail.com
+    - icon: simple/github
+      link: https://github.com/titoirfan
+    - icon: simple/googlescholar
+      link: https://scholar.google.com/citations?user=t06n5FYAAAAJ
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/titoirfan/
