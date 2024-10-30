@@ -3,7 +3,7 @@ site_name: titoirfan
 theme:
     name: 'material'
 
-    favicon: material/robot-outline
+    favicon: favicon_robot_outline.png
     icon:
       logo: material/robot-outline
 
