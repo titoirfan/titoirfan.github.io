@@ -85,9 +85,9 @@ extra:
   social:
     - icon: material/email
       link: mailto:irfantitok@gmail.com
-    - icon: simple/github
-      link: https://github.com/titoirfan
     - icon: simple/googlescholar
       link: https://scholar.google.com/citations?user=t06n5FYAAAAJ
+    - icon: simple/github
+      link: https://github.com/titoirfan
     - icon: simple/linkedin
       link: https://www.linkedin.com/in/titoirfan/
