@@ -1,3 +1,3 @@
 # Blog
 
-of things that happens to be on my mind
+... of things that happens to be on my mind.

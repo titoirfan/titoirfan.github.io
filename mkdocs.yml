@@ -1,7 +1,12 @@
-site_name: titoirfan's Vault
+site_name: titoirfan
 
 theme:
     name: 'material'
+
+    favicon: robot-confused-outline
+    icon:
+      logo: material/robot-confused-outline
+
     palette:
 
     # Light mode
