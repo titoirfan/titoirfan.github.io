@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # About
 
 Hi there!
@@ -8,11 +13,6 @@ On my free time, I like to draw illustrations, study Japanese, and play video ga
 
 ---
 
-## Links
+## Contact
 
-- :simple-gmail: [irfantitok@gmail.com](mailto:irfantitok@gmail.com)
-- :simple-github: [Github](https://github.com/titoirfan)
-- :simple-googlescholar: [Google Scholar](https://scholar.google.com/citations?user=t06n5FYAAAAJ)
-- :simple-linkedin: [LinkedIn](https://www.linkedin.com/in/titoirfan/)
-
-Feel free to reach me via email.
+:simple-gmail: Feel free to reach me via email - [irfantitok@gmail.com](mailto:irfantitok@gmail.com)

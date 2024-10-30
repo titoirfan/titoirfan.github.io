@@ -81,10 +81,8 @@ extra_javascript:
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
 
 extra:
-  generator: false
+  copyright: Email - irfantitok@gmail.com
   social:
-    - icon: simple/gmail
-      link: mailto:irfantitok@gmail.com
     - icon: simple/github
       link: https://github.com/titoirfan
     - icon: simple/googlescholar
