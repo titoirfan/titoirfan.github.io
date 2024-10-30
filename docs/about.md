@@ -1,4 +1,5 @@
 ---
+draft: true
 hide:
   - footer
 ---
@@ -52,8 +53,6 @@ hide:
 
 ## Publications
 
-<div class="grid cards" markdown>
-
 -   **I. T. Kurniawan** and B. R. Trilaksono, ”ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles,” in IEEE Access, vol. 11, pp. 121511-121528, 2023, doi: [10.1109/ACCESS.2023.3328953](https://doi.org/10.1109/ACCESS.2023.3328953).
 
 - **I. T. Kurniawan** and B. R. Trilaksono, ”Improving Radar-Camera Fusion-based 3D Object Detection for Autonomous Vehicles,” 2022 12th International Conference on System Engineering and Technology (ICSET), Bandung, Indonesia, 2022, pp. 42-47, doi: [10.1109/ICSET57543.2022.10011030](https://doi.org/ICSET57543.2022.10011030).
@@ -67,14 +66,8 @@ hide:
 
 - A. F. A. Mubarok, ..., **I. T. Kurniawan**, ..., ”Development of the Wheeled Soccer Robot Dagozilla Version 2.1 for the Middle Size League (MSL) Competition,” 7th Indonesian Symposium on Robotic Systems and Control (ISRSC), Semarang, Indonesia, 2019.
 
-</div>
-
 ---
 
 ## Awards
 
-<div class="grid cards" markdown>
-
 - Monbukagakusho (MEXT) Scholarship, from the Japanese Ministry of Education, Culture, Sports, Science and Technology (2024-2027)
-
-</div>
