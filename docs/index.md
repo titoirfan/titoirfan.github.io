@@ -12,7 +12,7 @@ Outside of academia, I have worked as a robotics engineer, developing autonomous
 
 On my free time, I like to draw illustrations, play video games, and study Japanese.
 
-Check out my [[Blog]] if you are interested.
+Check out my [[blog]] if you are interested.
 
 ---
 
