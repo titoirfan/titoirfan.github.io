@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# About
+# Home
 
 ## Irfan Tito Kurniawan
 
