@@ -3,9 +3,9 @@ site_name: titoirfan
 theme:
     name: 'material'
 
-    favicon: robot-confused-outline
+    favicon: material/robot-outline
     icon:
-      logo: material/robot-confused-outline
+      logo: material/robot-outline
 
     palette:
 
