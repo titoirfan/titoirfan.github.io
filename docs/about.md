@@ -12,7 +12,7 @@ hide:
 - :material-email: **Email**: [irfantitok@gmail.com](mailto:irfantitok@gmail.com)
 - :simple-googlescholar: **Google Scholar**: [Link](https://scholar.google.com/citations?user=t06n5FYAAAAJ)
 
-PhD student at Tohoku University, research interests include robotics and computer vision
+I am a PhD student at Tohoku University, my research interests include robotics and computer vision.
 
 ---
 
