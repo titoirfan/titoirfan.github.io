@@ -57,4 +57,4 @@ hide:
 
 ## Awards
 
-- Monbukagakusho (MEXT) Scholarship, from the Japanese Ministry of Education, Culture, Sports, Science and Technology (2024-2027)
+- **Monbukagakusho (MEXT) Scholarship** (2024 - 2027), from the Japanese Ministry of Education, Culture, Sports, Science and Technology
