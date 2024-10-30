@@ -15,4 +15,4 @@ On my free time, I like to draw illustrations, study Japanese, and play video ga
 
 ## Contact
 
-:simple-gmail: Feel free to reach me via email - [irfantitok@gmail.com](mailto:irfantitok@gmail.com)
+Feel free to reach me via email: :material-email: [irfantitok@gmail.com](mailto:irfantitok@gmail.com)

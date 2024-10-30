@@ -83,6 +83,8 @@ extra_javascript:
 extra:
   copyright: Email - irfantitok@gmail.com
   social:
+    - icon: material/email
+      link: mailto:irfantitok@gmail.com
     - icon: simple/github
       link: https://github.com/titoirfan
     - icon: simple/googlescholar
