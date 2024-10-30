@@ -15,6 +15,6 @@ My main concerns regarding my old website was that it was hard to maintain and u
 
 After a quick search on Github, I found [this template](https://github.com/jobindjohn/obsidian-publish-mkdocs) that allows me to publish my Obsidian notes on Github Pages. This is great for two reasons: I've been logging pretty much everything in [Obsidian](https://obsidian.md/) for the past few years, and I have virtually zero web development skills. After setting everything up, I must say that I am impressed with the template and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/), both are really easy to use but powerful and customizable.
 
-Now that my website is much simpler and maintainable, I hope that I can update it regularly. I kind of want to put my paper reading notes here. Maybe I will also write more blog posts, who knows.
+Now that my website is much simpler and maintainable, I kind of want to put my paper reading notes here. Maybe I will also write more blog posts, who knows. But I really shouldn't jump the gun, I still have to migrate all the contents from my old website to this one, oh well.
 
 For you who have read through the whole post, I hope you have a great day!
