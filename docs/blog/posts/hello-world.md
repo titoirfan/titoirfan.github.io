@@ -7,7 +7,7 @@ categories:
 
 # Hello, World!
 
-Today I decided (on a whim) that I will remake my website. I also decided to grab a domain while I'm at it, ~~considering I can also use it as a Bluesky handle~~.
+Today I decided (on a whim) that I will remake my website. I also decided to grab a domain while I'm at it, ~~considering that I can also use it as a Bluesky handle~~.
 
 <!-- more -->
 
