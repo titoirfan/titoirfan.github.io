@@ -9,7 +9,7 @@ hide:
 
 ---
 
-![](../resources/projects/guard/guard-robot.png){ width="560" }
+![](../resources/projects/guard/guard-robot.png)
 /// caption
 The security guard robot
 ///

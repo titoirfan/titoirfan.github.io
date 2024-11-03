@@ -16,7 +16,7 @@ The two-wheeled self-balancing robot
 
 The **Self-Balancing Robot** was built as my EL5214 Embedded Control Systems course final project, taken during my master's at Bandung Institute of Technology (2021). This robot is designed to balance itself upright robustly even in the presence of disturbances. The robot receives motion commands through a wired joystick.
 
-![](../resources/projects/balancing/balancing_top.png){ width="560" }
+![](../resources/projects/balancing/balancing_top.png)
 /// caption
 The robot's main electric circuitry which consists of an Arduino Nano, an MPU9250 IMU, and an L298N motor driver
 ///
