@@ -7,10 +7,6 @@ hide:
 
 ## Irfan Tito Kurniawan
 
-![](resources/headshot_circular.png){ width="300" }
-/// caption
-///
-
 Hi there!
 
 I'm **Tito** (ティト), currently pursuing my PhD at Tohoku University's [Neuro-Robotics Lab](https://neuro.mech.tohoku.ac.jp/). My research interest lies in the field of **robot learning**, aiming to enable **legged robots** to intelligently navigate the real world. Aside from robotics and deep learning, I also have some background in computer vision.
