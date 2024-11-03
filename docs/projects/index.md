@@ -53,7 +53,7 @@ Past research and courseworks that I have done.
 
 <div class="grid cards" markdown>
 
--   :material-radar:{ .lg .middle } [[scan_matching.md|__Scan Matching-based 2D Lidar Odometry__]]
+-   :material-radar:{ .lg .middle } [[scan_matching.md|__Lidar Odometry__]]
 
     ---
 

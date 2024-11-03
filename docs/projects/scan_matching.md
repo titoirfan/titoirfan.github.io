@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# Scan Matching-based 2D Lidar Odometry
+# Lidar Odometry
 
 *A simple scan matching-based 2D lidar odometry Robot Operating System (ROS) node. The scan matching is solved using the iterative closest point (ICP) algorithm, implemented in C++ using Eigen.*
 
