@@ -41,6 +41,12 @@ Past research and courseworks that I have done.
 
     *A method for simulating ultraviolet germicidal irradiation (UVGI) systems' irradiation coverage in Gazebo. This project enables optimal static UVGI system placement and mobile UVGI system route and fleet planning.*
 
+-   :material-robot:{ .lg .middle } [[telepresence.md|__Dagozilla Telepresence Robot__]]
+
+    ---
+
+    *A telepresence robot that is designed to represent the user. The robot can be controlled via the internet, and will stream the user's face and voice.*
+
 </div>
 
 ## Courseworks
