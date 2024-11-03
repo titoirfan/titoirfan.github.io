@@ -29,12 +29,13 @@ Past research and courseworks that I have done.
 
     *Two generations of autonomous mobile soccer robots designed for the RoboCup Middle Size League.*
 
+-   :material-lightbulb-on:{ .lg .middle } [[soca.md|__Soca__]]
+
+    ---
+
+    *An autonomous ultraviolet-C germicidal irradiation robot. Built in simulated environment using ROS and Gazebo.*
+
 </div>
-
-
-# Autonomous Tram
-
-*An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB). I was in charge of the radar-based perception system and the tram's system integration.*
 
 ## Courseworks
 
