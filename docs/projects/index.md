@@ -35,6 +35,12 @@ Past research and courseworks that I have done.
 
     *An autonomous ultraviolet-C germicidal irradiation robot. Built in simulated environment using ROS and Gazebo.*
 
+-   :material-cube:{ .lg .middle } <a href="https://github.com/titoirfan/soca_octomap" target="_blank">__Soca Octomap__</a>
+
+    ---
+
+    *A method for simulating ultraviolet germicidal irradiation (UVGI) systems' irradiation coverage in Gazebo. This project enables optimal static UVGI system placement and mobile UVGI system route and fleet planning.*
+
 </div>
 
 ## Courseworks
