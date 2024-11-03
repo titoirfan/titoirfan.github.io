@@ -1,6 +1,15 @@
+---
+hide:
+  - footer
+---
+
 # Projects
 
 Past projects and courseworks that I have done.
+
+## Projects
+
+*Migration in progress*
 
 ## Courseworks
 
