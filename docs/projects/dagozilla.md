@@ -31,7 +31,7 @@ The robots use the **A\* algorithm** to generate path plans. From the path plans
 
 During a match, each robot follows a strategy implemented using **behavior trees**. Each robot follows a different strategy designed according to its role. This way, the robots can cooperate while being aware of their individual role. The striker robot focuses on offense while the defender robot covers the back area, but they can also both work together in defense or offense when needed.
 
-Hardware-wise, the robot uses both an **x86-64 PC** and an **STM32F767ZI** microcontroller. The microcontroller runs lower-level control loops and interfaces with the sensors and actuators. The PC handles everything else including communication, behavior, localization, and higher-level control.
+Hardware-wise, the robot uses both an **x86-64 PC** and an **STM32F767ZI** microcontroller. The microcontroller runs lower-level control loops and interfaces with the sensors and actuators. The PC handles everything else: communication, behavior, localization, and higher-level control.
 
 As the **team lead**, I was in charge of leading the overall research, development, and manufacture of the robot. Aside from my duties as the team lead, I was in charge of the robot's control system. I designed and implemented the robot's motion and actuator control, from the high-level control algorithms to the low-level embedded hardware control.
 
