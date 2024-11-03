@@ -23,7 +23,7 @@ Past research and courseworks that I have done.
 
     *A radar-monocular camera fusion-based 3D object detector for autonomous vehicles. Achieved state-of-the-art performance among similar methods on the nuScenes detection leaderboard.*
 
--   :material-robot:{ .lg .middle } [[dagozilla.md|__Dagozilla__]]
+-   :material-soccer:{ .lg .middle } [[dagozilla.md|__Dagozilla__]]
 
     ---
 
