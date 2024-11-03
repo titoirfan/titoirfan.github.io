@@ -9,7 +9,7 @@ hide:
 
 ---
 
-**ClusterFusion** is a **radar-monocular camera feature-level fusion-based 3D object detector** that leverages the local spatial and point-wise features of radar point clouds. I developed ClusterFusion as a part of my master's thesis at Institut Teknologi Bandung under the supervision of Prof. Bambang Riyanto Trilaksono.
+**ClusterFusion** is a **radar-monocular camera feature-level fusion-based 3D object detector** that leverages the local spatial and point-wise features of radar point clouds. I developed ClusterFusion as a part of my master's thesis at Bandung Institute of Technology under the supervision of Prof. Bambang Riyanto Trilaksono.
 
 ![](../resources/projects/clusterfusion/background.png)
 /// caption
