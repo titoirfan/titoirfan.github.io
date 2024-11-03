@@ -9,8 +9,8 @@ hide:
 
 ---
 
-![](../resources/projects/autonomous_tram/tram.jpg)
-![](../resources/projects/autonomous_tram/tram_road.jpg)
+![](../resources/projects/autonomous_tram/tram.jpg){ width="560" }
+![](../resources/projects/autonomous_tram/tram_road.jpg){ width="560" }
 /// caption
 The tram with cameras, lidar, and radars attached to its front face
 ///
