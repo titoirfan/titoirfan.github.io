@@ -29,7 +29,6 @@ The ICP C++ implementation is then wrapped in a ROS node which subscribes to an 
 
 
 ![](../resources/projects/scan_matching/evo_traj.png)
-
 ![](../resources/projects/scan_matching/evo_pos_ort.png)
 /// caption
 *An evaluation of the lidar odometry implementation on a sample trajectory*
