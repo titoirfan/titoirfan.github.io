@@ -14,7 +14,7 @@ hide:
 *Dagozilla's third generation autonomous soccer robots*
 ///
 
-![](https://youtu.be/1zRVFqljGJ8?si=qovHmt6dsBT7JeKD){ width="560" }
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zRVFqljGJ8?si=V8EFhvzX0zlND_Tw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Dagozilla is the autonomous mobile robot developer student team of Bandung Institute of Technology, developing autonomous mobile soccer robots to compete in the RoboCup Soccer Middle Size League (MSL). In 2019, I was elected as the team leader of Dagozilla, responsible for leading the development of the team's third-generation autonomous mobile soccer robots. By the end of 2020, we managed to build two striker robots and were qualified for RoboCup MSL 2020. Unfortunately, we did not get to compete as the competition was canceled due to the COVID-19 pandemic.
 
