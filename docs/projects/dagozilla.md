@@ -18,22 +18,22 @@ hide:
 /// caption
 ///
 
-Dagozilla is an autonomous mobile robot developer student team from Bandung Institute of Technology. Dagozilla develops autonomous mobile soccer robots to compete in the RoboCup Soccer Middle Size League (MSL). In 2019, I was elected as the team leader of Dagozilla, responsible for leading the development of the team's third-generation autonomous mobile soccer robots. By the end of 2020, we managed to build two striker robots and were qualified for RoboCup MSL 2020 Bordeaux. Unfortunately, we did not get to compete as the competition was canceled due to the COVID-19 pandemic.
+**Dagozilla** is an autonomous mobile robot developer student team from Bandung Institute of Technology. Dagozilla develops autonomous mobile soccer robots to compete in the **RoboCup Soccer Middle Size League (MSL)**. In 2019, I was elected as the team leader of Dagozilla, responsible for leading the development of the team's third-generation autonomous mobile soccer robots. By the end of 2020, we managed to build two striker robots and were <a href="https://dagozilla.itb.ac.id/qualification/robocup-2020" target="_blank">**qualified**</a> for <a href="https://msl.robocup.org/news/2020-qualification-results" target="_blank">**RoboCup MSL 2020**</a>. Unfortunately, we did not get to compete as the competition was canceled due to the COVID-19 pandemic.
 
-The robots can autonomously play soccer using only the sensors they have onboard. They rely on an omnidirectional camera as their main sensor, which is supported by other sensors such as rotary encoders and a compass. The robots localize themselves against a map of the field's lines using the Augmented Monte Carlo Localization (AMCL) algorithm.
+The robots can autonomously play soccer using only the sensors they have onboard. They rely on an **omnidirectional camera** as their main sensor, which is supported by other sensors such as **rotary encoders** and a **compass**. The robots localize themselves against a map of the field's lines using the **Augmented Monte Carlo Localization** (AMCL) algorithm.
 
-The robots use the A* algorithm to generate path plans. From the path plans, they generate velocity setpoints using a trapezoidal velocity profile, which are then tracked using PID controllers. The robots can kick a soccer ball through the use of a solenoid-based kicking mechanism. The kicking mechanism can deliver both a lob shot and a flat shot. They can also actively control a ball thanks to their dribbling mechanism.
+The robots use the **A\* algorithm** to generate path plans. From the path plans, they generate velocity setpoints using a **trapezoidal velocity profile**, which are then tracked using **PID controllers**. The robots can kick a soccer ball through the use of a **solenoid-based kicking mechanism**. The kicking mechanism can deliver both a lob shot and a flat shot. They can also actively control a ball thanks to their dribbling mechanism.
 
 ![](../resources/projects/dagozilla/play.gif)
 /// caption
 *The robots in action*
 ///
 
-During a match, each robot follows a strategy implemented using behavior trees. Each robot follows a different strategy designed according to its role. This way, the robots can cooperate while being aware of their individual role. The striker robot focuses on offense while the defender robot covers the back area, but they can also both work together in defense or offense when needed.
+During a match, each robot follows a strategy implemented using **behavior trees**. Each robot follows a different strategy designed according to its role. This way, the robots can cooperate while being aware of their individual role. The striker robot focuses on offense while the defender robot covers the back area, but they can also both work together in defense or offense when needed.
 
-Hardware-wise, the robot uses both an x86-64 PC and an STM32F767ZI microcontroller. The microcontroller runs lower-level control loops and interfaces with the sensors and actuators. The PC handles everything else including communication, behavior, localization, and higher-level control.
+Hardware-wise, the robot uses both an **x86-64 PC** and an **STM32F767ZI** microcontroller. The microcontroller runs lower-level control loops and interfaces with the sensors and actuators. The PC handles everything else including communication, behavior, localization, and higher-level control.
 
-As the team leader, I was in charge of leading the overall research, development, and manufacture of the robot. My team leader duties included both the technical and non-technical aspects of it. Aside from my team leader duties, I was in charge of the robot's control system. I designed and implemented the robot's motion and actuator control, from the high-level control algorithms to the low-level embedded hardware control.
+As the **team lead**, I was in charge of leading the overall research, development, and manufacture of the robot. Aside from my duties as the team lead, I was in charge of the robot's control system. I designed and implemented the robot's motion and actuator control, from the high-level control algorithms to the low-level embedded hardware control.
 
 ![](../resources/projects/dagozilla/kick.gif)
 /// caption

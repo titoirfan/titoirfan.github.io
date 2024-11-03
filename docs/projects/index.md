@@ -11,6 +11,12 @@ Past research and courseworks that I have done.
 
 <div class="grid cards" markdown>
 
+-   :material-tram:{ .lg .middle } [[dagozilla.md|__Autonomous Tram__]]
+
+    ---
+
+    *An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB). I was in charge of the radar-based perception system and the tram's system integration.*
+
 -   :material-robot:{ .lg .middle } [[dagozilla.md|__Dagozilla__]]
 
     ---
@@ -18,6 +24,11 @@ Past research and courseworks that I have done.
     *Two generations of autonomous mobile soccer robots designed for the RoboCup Middle Size League.*
 
 </div>
+
+
+# Autonomous Tram
+
+*An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB). I was in charge of the radar-based perception system and the tram's system integration.*
 
 ## Courseworks
 
