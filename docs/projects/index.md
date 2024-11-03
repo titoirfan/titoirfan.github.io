@@ -45,7 +45,7 @@ Past research and courseworks that I have done.
 
     ---
 
-    *A telepresence robot that is designed to represent the user. The robot can be controlled via the internet, and will stream the user's face and voice.*
+    *A telepresence robot that is designed to represent its user. The robot can be controlled via the internet, and will stream its user's face and voice.*
 
 </div>
 
@@ -58,5 +58,11 @@ Past research and courseworks that I have done.
     ---
 
     *A simple scan matching-based 2D lidar odometry Robot Operating System (ROS) node. The scan matching is solved using the iterative closest point (ICP) algorithm, implemented in C++ using Eigen.*
+
+-   :material-radar:{ .lg .middle } [[scan_matching.md|__Self Balancing Robot__]]
+
+    ---
+
+    *A two-wheeled self-balancing robot developed as my EL5214 Embedded Control Systems course final project. The robot balances itself upright and can be controlled using a joystick.*
 
 </div>
