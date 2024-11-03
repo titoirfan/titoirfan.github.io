@@ -2,6 +2,5 @@
 
 Past projects and courseworks that I have done.
 
-```dataview
-list from [[]] and !outgoing([[]])
-```
+## Courseworks
+- [[scan_matching.md|Scan Matching]]
