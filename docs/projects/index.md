@@ -6,7 +6,7 @@ Past projects and courseworks that I have done.
 
 <div class="grid cards" markdown>
 
--   [[scan_matching.md|Scan Matching-based 2D Lidar Odometry]]
+-   :material-radar:{ .lg .middle } [[scan_matching.md|__Scan Matching-based 2D Lidar Odometry__]]
 
     ---
 
