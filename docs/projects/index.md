@@ -65,4 +65,10 @@ Past research and courseworks that I have done.
 
     *A two-wheeled self-balancing robot that can keep itself upright and be controlled using a joystick.*
 
+-   :material-shield:{ .lg .middle } [[guard.md|__Security Guard Robot__]]
+
+    ---
+
+    *A mini security guard robot that patrols the environment for unknown or wanted faces and alarms the human guards immediately whenever one is found.*
+
 </div>
