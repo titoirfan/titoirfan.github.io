@@ -18,7 +18,7 @@ In 2018, I worked on the **Dagozilla Telepresence Robot** as one of [[dagozilla.
 
 The robot uses both a **Raspberry Pi 3B+** and an **STM32F446RE** microcontroller as its computing units. Its neck supports a **Xiaomi tablet** which acts as its user interface.
 
-!![](../resources/projects/telepresence/p3mi-open-house.jpg)
+![](../resources/projects/telepresence/p3mi-open-house.jpg)
 /// caption
 The telepresence robot in Institut Teknologi Bandung Open House 2019
 ///

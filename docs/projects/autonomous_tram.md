@@ -5,7 +5,7 @@ hide:
 
 # Autonomous Tram
 
-*An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB). I was in charge of the radar-based perception system and the tram's system integration.*
+*An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB).*
 
 ---
 
@@ -43,7 +43,7 @@ A sample scene showing the object detection performance on the nuScenes dataset.
 
 ![](../resources/projects/autonomous_tram/radar_inference.gif)
 /// caption
-A sample scene showing the object detection performance on a new data distribution taken in Bandung, Indonesia. Note that no transfer learning were performed. Inferred on the NVIDIA DRIVE AGX at 24 FPS
+A sample scene showing the object detection performance on a new data distribution taken in Bandung, Indonesia. Note that no transfer learning was performed. Inferred on the NVIDIA DRIVE AGX at 24 FPS
 ///
 
 ## The Tram's System Integration

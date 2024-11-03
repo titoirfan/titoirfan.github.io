@@ -3,18 +3,18 @@ hide:
   - footer
 ---
 
-# Clusterfusion
+# ClusterFusion
 
 *A radar-monocular camera fusion-based 3D object detector for autonomous vehicles. Achieved state-of-the-art performance among similar methods on the nuScenes detection leaderboard.*
 
 ---
 
+**ClusterFusion** is a **radar-monocular camera feature-level fusion-based 3D object detector** that leverages the local spatial and point-wise features of radar point clouds. I developed ClusterFusion as a part of my master's thesis at Institut Teknologi Bandung under the supervision of Prof. Bambang Riyanto Trilaksono.
+
 ![](../resources/projects/clusterfusion/background.png)
 /// caption
 A monocular camera image and a projected radar point cloud (left); the same point cloud viewed from above and ground truth object bounding boxes (right). It is easier to approximate the objects' shape from the point cloud in the top view than in the image perspective view
 ///
-
-**ClusterFusion** is a **radar-monocular camera feature-level fusion-based 3D object detector** that leverages the local spatial and point-wise features of radar point clouds. I developed ClusterFusion as a part of my master's thesis at Institut Teknologi Bandung under the supervision of Prof. Bambang Riyanto Trilaksono.
 
 As illustrated in the Figure above, the shape of the objects can be approximated by observing the geometry of the radar point cloud. It is relatively harder to do the same in the image perspective view, where the point cloud's depth dimension is flattened. Existing radar-monocular camera methods only extract the point-wise features from the point clouds and ignore the point clouds' geometry which contains information on the position, orientation, and dimensions of the objects. Some other methods project the point clouds onto images and add the sparse radar depth as an additional channel, making it harder to extract the geometric information from the point clouds.
 

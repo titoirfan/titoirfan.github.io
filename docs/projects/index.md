@@ -15,9 +15,9 @@ Past research and courseworks that I have done.
 
     ---
 
-    *An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB). I was in charge of the radar-based perception system and the tram's system integration.*
+    *An autonomous tram developed in cooperation with the Indonesian Railway Industry Company (PT INKA) and PT Riset Kecerdasan Buatan (PT RKB).*
 
--   :material-camera:{ .lg .middle } [[clusterfusion.md|__Clusterfusion__]]
+-   :material-camera:{ .lg .middle } [[clusterfusion.md|__ClusterFusion__]]
 
     ---
 
@@ -39,9 +39,9 @@ Past research and courseworks that I have done.
 
     ---
 
-    *A method for simulating ultraviolet germicidal irradiation (UVGI) systems' irradiation coverage in Gazebo. This project enables optimal static UVGI system placement and mobile UVGI system route and fleet planning.*
+    *A method for simulating ultraviolet germicidal irradiation (UVGI) systems' irradiation coverage in Gazebo, enabling optimal UVGI system static placement or route planning.*
 
--   :material-robot:{ .lg .middle } [[telepresence.md|__Dagozilla Telepresence Robot__]]
+-   :material-television:{ .lg .middle } [[telepresence.md|__Dagozilla Telepresence Robot__]]
 
     ---
 
@@ -57,7 +57,7 @@ Past research and courseworks that I have done.
 
     ---
 
-    *A simple scan matching-based 2D lidar odometry Robot Operating System (ROS) node. The scan matching is solved using the iterative closest point (ICP) algorithm, implemented in C++ using Eigen.*
+    *A simple scan matching-based 2D lidar odometry Robot Operating System (ROS) node, solved using the iterative closest point (ICP) algorithm and implemented in C++ using Eigen.*
 
 -   :material-robot:{ .lg .middle } [[balancing.md|__Self Balancing Robot__]]
 

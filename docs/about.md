@@ -8,8 +8,8 @@ hide:
 ## Personal Information
 
 - **Name**: Irfan Tito Kurniawan (イルファン・ティト・クルニアワン)
-- :material-email: **Email**: [irfantitok@gmail.com](mailto:irfantitok@gmail.com)
-- :simple-googlescholar: **Google Scholar**: [Link](https://scholar.google.com/citations?user=t06n5FYAAAAJ)
+- **Email**: [irfantitok@gmail.com](mailto:irfantitok@gmail.com)
+- **Google Scholar**: [Link](https://scholar.google.com/citations?user=t06n5FYAAAAJ)
 
 I am a PhD student at Tohoku University, my research interests include robotics and computer vision.
 
@@ -19,21 +19,21 @@ I am a PhD student at Tohoku University, my research interests include robotics 
 
 - **PhD in Engineering**
     - Department of Robotics, Graduate School of Engineering, [Tohoku University](https://tohoku.ac.jp), Sendai, Japan
+    - **Duration**: Oct 2024 - Sep 2027 (Expected)
     - **Major**: Robotics
     - **Lab**: [Neuro-Robotics Lab](https://neuro.mech.tohoku.ac.jp/)
-    - **Duration**: Oct 2024 - Sep 2027 (Expected)
 
 - **MSc in Electrical Engineering**
     - School of Electrical Engineering and Informatics, [Bandung Institute of Technology](https://itb.ac.id), Bandung, Indonesia
+    - **Duration**: Aug 2021 - Apr 2023
     - **Major**: Electrical Engineering (Control and Intelligent Systems)
     - **Lab**: Advanced Robotics Lab
-    - **Duration**: Aug 2021 - Apr 2023
     - **GPA**: 3.79/4.00 (Cum Laude)
 
 - **BSc in Biomedical Engineering**
     - School of Electrical Engineering and Informatics, [Bandung Institute of Technology](https://itb.ac.id), Bandung, Indonesia
-    - **Major**: Biomedical Engineering
     - **Duration**: Aug 2017 - Jul 2021
+    - **Major**: Biomedical Engineering
     - **GPA**: 3.78/4.00 (Cum Laude)
 
 ---
