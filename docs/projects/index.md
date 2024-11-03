@@ -5,11 +5,19 @@ hide:
 
 # Projects
 
-Past projects and courseworks that I have done.
+Past research and courseworks that I have done.
 
-## Projects
+## Research
 
-*Migration in progress*
+<div class="grid cards" markdown>
+
+-   :material-robot:{ .lg .middle } [[dagozilla.md|__Dagozilla__]]
+
+    ---
+
+    *Two generations of autonomous mobile soccer robots designed for the RoboCup Middle Size League.*
+
+</div>
 
 ## Courseworks
 
