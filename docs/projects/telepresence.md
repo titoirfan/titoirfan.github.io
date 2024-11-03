@@ -24,3 +24,5 @@ The telepresence robot in Institut Teknologi Bandung Open House 2019
 ///
 
 As an electrical engineer, I was in charge of the robot's overall electrical system. Specifically, I was responsible for designing, manufacturing, and implementing its tablet height adjustment electrical systems and control. I also implemented the robot's odometry system, I designed the PCBs and wrote the code for the sensor's data acquisition routine. Through the robot's manufacturing process, I actively participated in the robot's assembly and wiring process.
+
+[[projects/index|Back to Projects]]

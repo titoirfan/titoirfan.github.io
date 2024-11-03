@@ -35,3 +35,5 @@ Finally, we tested and evaluated Soca in a simulated environment. As ultraviolet
 /// caption
 Soca autonomously disinfecting hospital rooms in simulation
 ///
+
+[[projects/index|Back to Projects]]

@@ -42,3 +42,5 @@ The robot can also follow motion commands given through the wired joystick as sh
 /// caption
 The robot balances itself while following motion commands given through the joystick
 ///
+
+[[projects/index|Back to Projects]]
