@@ -8,6 +8,8 @@ hide:
 ## Irfan Tito Kurniawan
 
 ![](resources/headshot_circular.png){ width="300" }
+/// caption
+///
 
 Hi there!
 
