@@ -63,6 +63,6 @@ Past research and courseworks that I have done.
 
     ---
 
-    *A two-wheeled self-balancing robot developed as my EL5214 Embedded Control Systems course final project. The robot balances itself upright and can be controlled using a joystick.*
+    *A two-wheeled self-balancing robot that can keep itself upright and be controlled using a joystick.*
 
 </div>
