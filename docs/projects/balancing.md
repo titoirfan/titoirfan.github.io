@@ -10,8 +10,6 @@ hide:
 ---
 
 ![](../resources/projects/balancing/balancing_iso.png){ width="300" }
-![](../resources/projects/balancing/balancing_side.png){ width="300" }
-![](../resources/projects/balancing/balancing_front.png){ width="300" }
 /// caption
 The two-wheeled self-balancing robot
 ///
