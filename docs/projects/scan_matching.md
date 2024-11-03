@@ -14,7 +14,7 @@ hide:
 *A sample trajectory estimated by the lidar odometry compared against the ground truth trajectory*
 ///
 
-The **scan matching-based 2D lidar odometry** Robot Operating System (ROS) node was written as the final project for the EL5000 Advanced Mathematics course, taken during my master's in Bandung Institute of Technology (2020). It was written in C++ using the Eigen library and implements the **iterative closest point** (ICP) algorithm. As a mathematics course final project, this project was written mainly to demonstrate how **singular value decomposition** (SVD) can be used to solve the point cloud alignment problem and is not meant to be an implementation suitable for real-world use. A proof of concept of the algorithm was implemented in Octave and is illustrated below.
+The **scan matching-based 2D lidar odometry** Robot Operating System (ROS) node was written as the final project for the EL5000 Advanced Mathematics course, taken during my master's at Bandung Institute of Technology (2020). It was written in C++ using the Eigen library and implements the **iterative closest point** (ICP) algorithm. As a mathematics course final project, this project was written mainly to demonstrate how **singular value decomposition** (SVD) can be used to solve the point cloud alignment problem and is not meant to be an implementation suitable for real-world use. A proof of concept of the algorithm was implemented in Octave and is illustrated below.
 
 ![](../resources/projects/scan_matching/icp_animation.gif)
 ![](../resources/projects/scan_matching/icp_2_animation.gif)
