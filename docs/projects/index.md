@@ -59,7 +59,7 @@ Past research and courseworks that I have done.
 
     *A simple scan matching-based 2D lidar odometry Robot Operating System (ROS) node. The scan matching is solved using the iterative closest point (ICP) algorithm, implemented in C++ using Eigen.*
 
--   :material-robot:{ .lg .middle } [[scan_matching.md|__Self Balancing Robot__]]
+-   :material-robot:{ .lg .middle } [[balancing.md|__Self Balancing Robot__]]
 
     ---
 
