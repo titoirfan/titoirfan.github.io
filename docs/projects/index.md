@@ -69,6 +69,6 @@ Past research and courseworks that I have done.
 
     ---
 
-    *A mini security guard robot that patrols the environment for unknown or wanted faces and alarms the human guards immediately whenever one is found.*
+    *A mini security guard robot that patrols the environment for unknown or wanted faces and warns human guards when one is found.*
 
 </div>
