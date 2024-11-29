@@ -27,9 +27,9 @@ To reduce the computation load, Soca does not perform SLAM, and instead uses a f
 The RRT* algorithm in action
 ///
 
-To reduce unnecessary complexities, we wrote our own C++ implementation of the localization and navigation stack, which includes the AMCL, RRT*, and STC algorithms. We wrote the program using the **Robot Operating System (ROS)** framework. To accompany the robot, we also wrote a graphical user interface for the user to give the robot commands using **Qt**. 
+To reduce unnecessary complexities, we wrote our own C++ implementation of the localization and navigation stack, which includes the AMCL, RRT\*, and STC algorithms. We wrote the program using the **Robot Operating System (ROS)** framework. To accompany the robot, we also wrote a graphical user interface for the user to give the robot commands using **Qt**. 
 
-Finally, we tested and evaluated Soca in a simulated environment. As ultraviolet surface irradiation is not traditionally supported in Gazebo, we developed our own method to simulate it, which is described in greater depth in this <a href="https://ieeexplore.ieee.org/abstract/document/9501868" target="_blank">paper</a>. We open-sourced our implementation of the simulation method, which you can access in this <a href="https://github.com/titoirfan/soca_octomap" target="_blank">GitHub repository</a>. The design process, implementation details, and disinfection performance evaluation are discussed in more detail in the <a href="https://ieeexplore.ieee.org/abstract/document/9501737" target="_blank">paper</a> of this project.
+Finally, we tested and evaluated Soca in a simulated environment. As ultraviolet surface irradiation is not traditionally supported in Gazebo, we developed our own method to simulate it, described in greater depth in this <a href="https://ieeexplore.ieee.org/abstract/document/9501868" target="_blank">paper</a>. We open-sourced our implementation of the simulation method, accessible in this <a href="https://github.com/titoirfan/soca_octomap" target="_blank">GitHub repository</a>. The design process, implementation details, and disinfection performance evaluation are discussed in more detail in the <a href="https://ieeexplore.ieee.org/abstract/document/9501737" target="_blank">paper</a> of this project.
 
 ![](../resources/projects/soca/gui_demo.gif)
 /// caption

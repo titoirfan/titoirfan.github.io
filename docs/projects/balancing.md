@@ -18,7 +18,7 @@ The **Self-Balancing Robot** was built as my EL5214 Embedded Control Systems cou
 
 ![](../resources/projects/balancing/balancing_top.png){ width="560" }
 /// caption
-The robot's main electric circuitry which consists of an Arduino Nano, an MPU9250 IMU, and an L298N motor driver
+The robot's main electric circuitry, consisting of an Arduino Nano, an MPU9250 IMU, and an L298N motor driver
 ///
 
 The robot uses an **Arduino Nano** as its main computing unit and an **MPU9250** IMU as its orientation sensor. The robot is actuated by a pair of **JGA25** brushed DC motors controlled by an **L298N** motor driver. The gyroscope and accelerometer sensor readings from the IMU are fed into a **complementary filter** to estimate the robot's orientation. 
